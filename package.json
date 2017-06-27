@@ -1,12 +1,14 @@
 {
   "name": "duck-duck-type",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "duck-duck-type",
   "license": "MIT",
   "repository": "",
   "author": "",
   "keywords": [
-    ""
+    "duck-duck-go",
+    "search",
+    "typescript"
   ],
   "files": [
     "lib"
