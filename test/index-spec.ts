@@ -12,6 +12,7 @@ describe('search', () => {
         expect(result.Abstract).to.be.a('string');
         expect(result.Abstract.indexOf('Microsoft')).to.not.equal(-1);
         expect(result.Entity).to.equal('company');
+        
         done();
       });
   });

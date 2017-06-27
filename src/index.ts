@@ -8,6 +8,8 @@ export async function search(term: string) {
 }
 
 export interface IResponse {
+  /** the search text */
+  Heading: string;
   Abstract: string;
   AbstractSource: string;
   AbstractURL: string;
